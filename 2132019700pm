@@ -1,0 +1,213 @@
+ole 
+Search...
+File IO Thread/INFO 02/13/2019 18:55:46
+18:55:46Done compressing in 04:03 seconds (8.1GB)!
+Created /home/AMP/.ampdata/instances/PO3/Minecraft/./backups/2019-02-14-00-51-42.zip from /home/AMP/.ampdata/instances/PO3/Minecraft/./map
+Server thread/INFO 02/13/2019 18:55:49
+18:55:49Unloading world [Abyssal_Wasteland]: (DIM5)
+veaoleh ran the command: /tps 
+Patrick7288 ran the command: /tps 
+[Archon]: percio_: sever123
+MassiveMod ran the command: /home 
+MassiveMod ran the command: /home
+18:55:50MrWaffleFries lost connection: Disconnected
+Unloaded all online chunkloaders for Player: MrWaffleFries
+MrWaffleFries left the game
+Sharajob lost connection: Disconnected
+Unloaded all online chunkloaders for Player: Sharajob
+Sharajob left the game
+Hydro_Wolf_ lost connection: Disconnected
+Unloaded all online chunkloaders for Player: Hydro_Wolf_
+Hydro_Wolf_ left the game
+Kimochu lost connection: Disconnected
+Unloaded all online chunkloaders for Player: Kimochu
+Kimochu left the game
+Patrick7288 lost connection: Disconnected
+Unloaded all online chunkloaders for Player: Patrick7288
+Patrick7288 left the game
+com.mojang.authlib.GameProfile@55c46523[id=205e0bbd-b5e9-45ee-8d2a-1c2350a3cfcd,name=Hydro_Wolf_,properties={textures=[Property{name=textures, value=eyJ0aW1lc3RhbXAiOjE1NTAxMDIwMTEzNjAsInByb2ZpbGVJZCI6IjIwNWUwYmJkYjVlOTQ1ZWU4ZDJhMWMyMzUwYTNjZmNkIiwicHJvZmlsZU5hbWUiOiJIeWRyb19Xb2xmXyIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZWI1YjllYTJlMjEyZmU5ZjI4YTBhYTMxN2QzYmMyODRlZjljNTQwNjJjYTQ3NGI0OGRjNmZkN2ZmMzZlZWRiIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=, signature=Optional[ExPox3dHZdGdfAB27pifnVQZkCwV4A5xA/0XYfwCt9ykFHLeI3GiCTZ5Va3QhgLh6LLcqRQqsA+EUxw6VZuLlRsjSmPhfDDfXttj1/IWWga9tanND9DfYPmA/af2y5YZoQjHdRnMh5t6Ko36Fgo0AbWP3jxuRMmkN2F+1IF1fYw9q+o69teggIB+dgMUtJa1//bL4GIiJeTIvvSoNy3jBs17YJfc+b9X4VtrxlnjI15wcadfxHaJ6YFO9RzkLnpbjSFpyoMQRAJwW+6r9GLk9dhc0MF+MBv+1GFyy6kTSb041yNDMQY/jLCobdfaaY5C+rcwROQE4hrODzTuKTf7cVCpTHAxVCcQBrTveiq2YUzlhh4KQb7kC1XRI4kuCYQa7kCN8OABk9jpHiyVHBQAPih9MSMcw6GSNOra6LjmuRYedgU8WKCTLBWqKEHj9IOsLbfj8YHKnzKvLHvibpwWjMhKv/Y6FRQQE1VTTu3B5AjJodZHZ4ZB0aoMD45nlFaz8aSZj2gXu8aJJMs/4vkqLpKGLZdA84i/27rfTDnWmR01GmfMS4suikKj6bX6P/wkUxvcp0igtFlUZTb1aaDnLdsejGb+0xU6A6WA5vXdqHNjums6vRQZ/hXRC0m6Q+LQ3Iz323lQATGZJSwwVj9S5Oju5SuquAzWZabQManQjXQ=]}], forgeClient=[Property{name=forgeClient, value=true, signature=Optional.empty}], extraData=[Property{name=extraData, value= FML , signature=Optional[]}]},legacy=false]: (/118.148.96.191:60471) lost connection: Disconnected
+com.mojang.authlib.GameProfile@768d2d92[id=99d53fba-dc9d-4b27-9de8-e107aefe4d66,name=Patrick7288,properties={textures=[Property{name=textures, value=eyJ0aW1lc3RhbXAiOjE1NTAxMDIwNDQ5NTAsInByb2ZpbGVJZCI6Ijk5ZDUzZmJhZGM5ZDRiMjc5ZGU4ZTEwN2FlZmU0ZDY2IiwicHJvZmlsZU5hbWUiOiJQYXRyaWNrNzI4OCIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hY2M1NDRiZTg1MWI0NWM5NmI5NDkxNzNkMDg5NjJhODRhMWRjNjk0ODUzMjc1N2YyNjcyZGE3MTZmYzQ3YTYyIn19fQ==, signature=Optional[c9JBosriWmdTFqatWj2/shJlYF0uIbDriHbY2ESWF6nUQ4qmxjhWTXauHSTeKJ0VNS3SvzYyHQflGHTCpZmCVFjRV8WboaUicyymkwriIAWRbdgSQt133/hfgOkMB5iFWQA+yFHW1xTn/+gLpRamzJlvRPOscNjuVF6bv46f4G1WKoFgYj6Qf76MCuv03qNoQY4EizuCQgQP+9/RHSl585CSZTZEiDxh/8AvFRe6SMZcQH9djtrF2uBQa56nWn3SHAEV27w51fq26EdQho3NWh6m4KGIxii2uK2iqlODClcELHKynm4qcKiltFpNFC8PKmHkjbzQgOgF0vceak8xbAef1bHlaA5f/+FE1ALl3VgdLsaMmUCJRrzTqG/5jqGhAaooxm3ZwkkJEhyawjFR/QPJDxbuzfqovZYBnMiprHAfYq72f5R49Acmvg0mSTlKFqrdNH7D1UW1NRcoirT9fN/pEXHmu2cohyKfS2U6mN7KUTzK+ou9s2WKJD9Hr/Cz9u65K3NfQcWSaP2RSdqX1s+xk++ZUT0Kw7xhe+We4BE/F1hNTYC3CVmd9nAd1Er9pm45Rc83Jl0WYtaxvPXn9UmqK9AF784ceDY7aRYuYrgLvYR6/8rT5uMpWQBfvg6sERqQ35r/bO0ugd8ELpiiEdX88doGACazUiwWj5uK2hg=]}], forgeClient=[Property{name=forgeClient, value=true, signature=Optional.empty}], extraData=[Property{name=extraData, value= FML , signature=Optional[]}]},legacy=false]: (/88.95.182.101:34571) lost connection: Disconnected
+com.mojang.authlib.GameProfile@37a5fe20[id=205e0bbd-b5e9-45ee-8d2a-1c2350a3cfcd,name=Hydro_Wolf_,properties={textures=[Property{name=textures, value=eyJ0aW1lc3RhbXAiOjE1NTAxMDIwNTIxMzAsInByb2ZpbGVJZCI6IjIwNWUwYmJkYjVlOTQ1ZWU4ZDJhMWMyMzUwYTNjZmNkIiwicHJvZmlsZU5hbWUiOiJIeWRyb19Xb2xmXyIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZWI1YjllYTJlMjEyZmU5ZjI4YTBhYTMxN2QzYmMyODRlZjljNTQwNjJjYTQ3NGI0OGRjNmZkN2ZmMzZlZWRiIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=, signature=Optional[l+EogzGMEqCY3f4/cCDIRlReL7TeALpLaS9QwfZ3lmOIHhPQQSaKrPl6G2Ou+5/24pt/4rvxmyiP5rAhYuBv3HxdB4TiynNfbfT+9od0NV4LqFDoo9prb5JeLKQn2VWX84dIKryVD6PFJd2sSiAHnUqC7jQZ5F+sYBDWS+OdTe3DuvSgSwXqN3BngqDFEdgjBQG22tNT5RbhPLv4IUIsqfCPK9aoWUcTG9k35mFeCLr8y8MRd/JpM1n1lDZwcuivPkNq2+ApZBDuje8G7atygXusxZjuKNU1oiktVJaf3vHZYmOwrb1ciIhw4BEdjHFmrg7zSj09cIQNh2kwhSoK8yzStsKFkU8E9Clo6csjKMEjguhZtolh2yTHLIWJpt2cVB6hYw6D7BKkf8wdpTxP0jOH4z6LiNFxLnFfLibetOYA+KKc4fCO0VYJIsN5gFNnTVN51X0siCX8Sqx8sEdr97BGiKrSQQMSIou6nJs3H+2UCIvqmQxY6BfBu0+ypw+chyKOpkw9qtO15kSzzaUDZ0J5G0OEGv8lpymqgb8v6Onvc/W/Thq7qJBKzcW5sz4s5wJwA7/Ttv3wDL9IHgko4jisZ31ZeCmB9vVOzqaG70dMkmYKT9j9e4bSfi3glU0ttcUNf0qzRhkQc8cVuIZj1d66ZtX5SwL3cpvR+zNNgqk=]}], forgeClient=[Property{name=forgeClient, value=true, signature=Optional.empty}], extraData=[Property{name=extraData, value= FML , signature=Optional[]}]},legacy=false]: (/118.148.96.191:38925) lost connection: Disconnected
+com.mojang.authlib.GameProfile@189806d5[id=99d53fba-dc9d-4b27-9de8-e107aefe4d66,name=Patrick7288,properties={textures=[Property{name=textures, value=eyJ0aW1lc3RhbXAiOjE1NTAxMDIwODgyOTIsInByb2ZpbGVJZCI6Ijk5ZDUzZmJhZGM5ZDRiMjc5ZGU4ZTEwN2FlZmU0ZDY2IiwicHJvZmlsZU5hbWUiOiJQYXRyaWNrNzI4OCIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hY2M1NDRiZTg1MWI0NWM5NmI5NDkxNzNkMDg5NjJhODRhMWRjNjk0ODUzMjc1N2YyNjcyZGE3MTZmYzQ3YTYyIn19fQ==, signature=Optional[G1QQF7MhrQDI9rEFPZQT+ftUsBetJuC2YIXFGtjn3o9d1IBwZNhg1tcRgJthrgEAUOq2n8zbThtnKUV7o+A45qQTE3horEnGijm2PsdvluitMxC56zokJkOFCVEky+wQqLTQtDGrKaof+tSp/9s4VWoPoFwVcUJA3LWKzzAxe7MBp+EUqk9539oULaFfYNFp/8LRgUaDQfiagNwTfurTEsIgDwCd/irJH5ZOqjhDTWVqi+dBWIrirs8TwawvDljCMPj9H7BB/j7hIoVuDTveL/7G5+OjbsmyqJlYqw68zXVTLxXug9GeqhdX5TtHD8aQka3ukDp0asJwjUUegH8RQM8vYFxq6n5o4swpX5yOHyRs2JGNKvfIsvYFFnoBf+xjZXAg30RU034tmwM+zBo4haTZ9fzmE/NlikLhxrEkwTOaBrYiPiAdAsCJMXAzkqPSrI1RLtdC3CJww3llaa998/G3WHKyFU6UGMEDaIRTAtyHVQY13ADUqsr7X90q1jbV63aIot4IWJvgHR96s6xR0ygfGB2VAxu/IdU5OON/4zXshu1bv6eEaPYcBVP3KVju48sG1JLYYC4qeWqGPUTss6zWDIkU61FqbslZqVF6GKvcLjx7Ao4s3615sSommp8jXMktLHKzEKLDRd+AXIKgajnUkhE3wzX5mYEGv7IWy0w=]}], forgeClient=[Property{name=forgeClient, value=true, signature=Optional.empty}], extraData=[Property{name=extraData, value= FML , signature=Optional[]}]},legacy=false]: (/88.95.182.101:47385) lost connection: Disconnected
+Netty Epoll Server IO #14/INFO 02/13/2019 18:55:50
+18:55:50Client protocol version 2
+Client attempting to join with 279 mods : bqt@1.0,draconicevolution@2.3.18,projecte@1.12.2-PE1.4.0,contenttweaker@1.12.2-4.9.1,thermalinnovation@0.3.1,modnametooltip@1.10.0,endercore@1.12.2-0.5.45,neat@1.4-17,enderioendergy@5.0.40,hammercore@2.0.4.1,ctm@MC1.12.2-0.3.3.22,xnet@1.7.6,lex@1.0.8,lordcraft@1.0.0,forgelin@1.8.2,microblockcbe@2.6.1.81,xreliquary@1.12.2-1.3.4.780,chancecubes@1.12.2-3.2.3.242,darkutils@1.8.223,betterbuilderswands@0.12.1,morpheus@1.12.2-3.5.106,waila@1.8.26,ftblib@5.4.1.80,teslafied@1.1.1,enderioconduitsrefinedstorage@5.0.40,galacticraftplanets@4.0.2.190,redstonearsenal@2.6.1,guideapi@1.12-2.1.8-63,mcmultipart@2.5.3,acintegration@1.6.6,mysticalagradditions@1.2.10,openmodularturrets@3.0.1-264,mysticallib@1.12.2-1.0.0,enderioconduits@5.0.40,industrialforegoing@1.12.2-1.12.2,tipthescales@1.0.3,unidict@1.12.2-2.9.2,redstoneflux@2.1.0,modtweaker@4.0.16,botania@r1.10-358,resourceloader@1.5.3,eleccore@1.8.434,portality@1.0-SNAPSHOT,riteclicker@1.12_1,projectred-core@4.9.1.92,abyssalcraft@1.9.4.15,lunatriuscore@1.2.0.42,teslacorelib@1.0.15,ceramics@1.12-1.3.6,projectred-exploration@4.9.1.92,projectred-transportation@4.9.1.92,FML@8.0.99.99,thermalexpansion@5.5.2,tombstone@3.3.0,ompd@3.0.0-36,rftoolsdim@5.64,enderiointegrationtic@5.0.40,additionalresources@0.1.1,forgemultipartcbe@2.6.1.81,itemphysic@1.4.0,overpoweredarmorbar@0.3.2,codechickenlib@3.2.2.353,rockcandy@1.12.2-3.00,tp@3.2.32,wailaharvestability@1.1.12,aroma1997sdimension@2.0.0.2.b87,magneticraft@2.5.2,unloader@1.2.0,clienttweaks@3.1.11,ctgui@1.0.0,simple_trophies@1.1.0,simplyjetpacks@2.2.10.63,woot@1.12.2-1.4.9,grue@1.4.0,jee@1.0.6,jei@4.14.4.264,everlastingabilities@1.4.0,attributefix@1.0.4,custommainmenu@2.0.9,modulardiversity@1.1,bibliocraft@2.4.5,mekanism@1.12.2-9.4.13.349,thermalfoundation@2.6.1,bdlib@1.14.3.12,opencomputers@1.7.3.146,expequiv@11b,enderiointegrationticlate@5.0.40,aroma1997core@2.0.0.0.b162,chameleon@1.12-4.1.3,farmingforblockheads@3.1.26,inventorytweaks@1.63+release.109.220f184,pneumaticcraft@1.12.2-0.9.1-317,equivalentintegrations@0.1.9,micdoodlecore@,crafttweaker@4.1.14,thermalsolars@1.12.2 V1.9.4,immersivepetroleum@1.1.9,forge@14.23.5.2808,ftbutilities@5.3.0.79,ironchest@1.12.2-7.0.58.841,zerocore@1.12-0.1.2.3,minecraft@1.12.2,tcomplement@${version},mousetweaks@2.9,audiodeath@0.7.0_1.9-87aeca7,immersiveengineering@0.12-88,thermaldynamics@2.5.3,tammodized@0.15.5,applecore@3.1.4,yabba@1.1.2.39,enderiopowertools@5.0.40,chickenchunks@2.4.1.73,mpbasic@1.4.7,compacter@1.3.0.3,extrautils2@1.0,quantumflux@2.0.17,mantle@1.12-1.3.3.39,waitingtime@1.0.1,bhc@1.2.1,autoreglib@1.3-24,lootbags@2.5.7,galacticraftcore@4.0.2.190,mrtjpcore@2.1.3.35,moofluids@1.12.2-1.8.12.02a,biometweakercore@1.0.39,erebus@1.0.25,appleskin@1.0.9,embers@1.12,ingameinfoxml@2.8.2.94,minecraftmultipartcbe@2.6.1.81,enderioconduitsopencomputers@5.0.40,netherendingores@1.12.2-1.2,thedragonlib@1.12.2-5.3.0,tweakersconstruct@1.12.2-1.3.0,base@3.11.0,cyclopscore@1.0.2,ts2k16@1.2.10,p455w0rdslib@2.0.36,astralsorcery@1.10.10,enderiointegrationforestry@5.0.40,modularmachinery@1.9.5,creativecoredummy@1.0.0,rftools@7.60,openmods@0.12.1,avaritiatweaks@1.12.2-1.1,extendedcrafting@1.5.2,cofhcore@4.6.1,lttweaker@1.1.14,tickprofiler@1.12-0.0.7,kleeslabs@5.4.11,plustic@7.0.0.0,reborncore@3.13.2.411,betterquesting@3.5.290,controlling@3.0.6,cookingforblockheads@6.4.69,placebo@1.5.1,nofog@1.12.2-1.12.2-1.0.3.0,gardenofglass@sqrt(-1),neid@1.5.4.3,ae2stuff@0.7.0.4,fencejumper@1.0.5,mputils@1.5.6,bookshelf@2.3.574,huntingdim@1.0.36,extraplanets@1.12.2-0.4.7,wct@3.11.88,cofhworld@1.3.0,progressivebosses@1.4.1,mekanismgenerators@9.4.11,matc@1.0.1-hotfix,mcjtylib_ng@3.1.1,bq_standard@3.4.150,biometweaker@3.2.354,nmsot@1.2.2-mc1.12.2,twilightforest@3.8.689,mob_grinding_utils@0.3.13,brokenwings@1.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,crafttweakerjei@2.0.2,enderiomachines@5.0.40,galacticrafttweaker@1.12.2-1.0.3,mtlib@3.0.5,openmodscore@0.12.1,simplesponge@3.6.1,teslacorelib_registries@1.0.15,actuallyadditions@1.12.2-r144,solarflux@4.32r,kc@1.12,lessforgivingvoid@1.0.1,mapgadgets@@VERSION@,randomthings@4.2.6,oreexcavation@1.4.133,endermanevo@1.0.16,rftoolscontrol@1.9.3,lostcities@2.0.13,manavisualizer@r1.0-1,furnaceoverhaul@1.0.5,enderioconduitsappliedenergistics@5.0.40,mekanismtools@9.4.11,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.50,soot@1.5,instantunify@1.1.2,armorplus@1.12.2-11.16.3.48,quantumstorage@4.6.6,epicsiegemod@13.163,landcraft@2.2.1.2,betteradvancements@0.0.16.71,danknull@1.4.46,agricraft@2.12.0-1.12.0-a6,ynot@0.2.3,extracells@2.6.2,tesla@1.0.63,stacksize@1.1,ae2wtlib@1.0.6,cucumber@1.1.3,overloaded@0.0.53,simplevoidworld@1.2.0.9,witherskelefix@2.6.3,wawla@2.5.269,waystones@4.0.67,mcp@9.42,clumps@3.1.2,diethopper@1.1,journeymap@1.12.2-5.5.3,appliedenergistics2@rv6-stable-6,dimensionaledibles@1.3,nuclearcraft@2.13e,endertweaker@1.0.0,nex@2.0.8,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.0.1-162,roughmobs@2.0.0,landcore@1.5.0.0,bonsaitrees@1.1.2,toastcontrol@1.8.0,ichunutil@7.1.4,enderstorage@2.4.5.135,discordsuite@2.2.4,akashictome@1.2-12,exnihilocreatio@1.12-0.3.2,bloodmagic@1.12.2-2.3.3-101,brandonscore@2.4.9,mysticalagriculture@1.7.1,openblocks@1.8,skylandsforge@1.12.2_0.2,craftingtweaks@8.1.9,tconstruct@1.12.2-2.12.0.115,avaritia@3.3.0,baubles@1.5.2,exchangers@1.12.2-2.8,creativecore@1.9.9,projectred-relocation@4.9.1.92,integrationforegoing@1.12.2-1.8.2,enderio@5.0.40,bloodmoon@1.5.3,justenoughpetroleum@0.1,quark@r1.5-145,karatgarden@0.1.4,fastbench@1.6.0,storagedrawers@1.12-5.3.5,blockcraftery@1.12.2-1.1.0,natura@1.12.2-4.3.2.66,projectred-expansion@4.9.1.92,voidcraft@0.26.10,enderiobase@5.0.40,wanionlib@1.12.2-2.2,chisel@MC1.12.2-0.2.1.35,infinitylib@1.12.2-1.12.0,foamfix@0.10.3-1.12.2,opencomputers|core@1.7.3.146,mjrlegendslib@1.12.2-1.1.8,chiselsandbits@14.30,morphtool@1.2-21,packmode@1.2.0,translocators@2.5.1.77,modelloader@1.1.5
+CLIENT
+Attempting connection with missing mods [spongeapi, sponge, spongeforge, randompatches, auction, aurionsvotelistener, betterchunkloader, boop, buycraft, carrotshop, catclearlag, cmdbuilder, cmdcontrol, commandsigns, economylite, gwm_crates, gwm_library, holograms, inventorykeeper, itemchat, laggoggles, luckperms, magibridge, mmcreboot, mmcrestrict, nucleus, nuvotifier, pixelautomessages, placeholderapi, prism, prismplus, rankupper, sampler, spark, tabmodifier, wasted, worldedit]: at CLIENT
+Netty Epoll Server IO #13/INFO 02/13/2019 18:55:50
+18:55:50Client protocol version 2
+Client attempting to join with 279 mods : bqt@1.0,draconicevolution@2.3.18,projecte@1.12.2-PE1.4.0,contenttweaker@1.12.2-4.9.1,thermalinnovation@0.3.1,modnametooltip@1.10.0,endercore@1.12.2-0.5.45,neat@1.4-17,enderioendergy@5.0.40,hammercore@2.0.4.1,ctm@MC1.12.2-0.3.3.22,xnet@1.7.6,lex@1.0.8,lordcraft@1.0.0,forgelin@1.8.2,microblockcbe@2.6.1.81,xreliquary@1.12.2-1.3.4.780,chancecubes@1.12.2-3.2.3.242,darkutils@1.8.223,betterbuilderswands@0.12.1,morpheus@1.12.2-3.5.106,waila@1.8.26,ftblib@5.4.1.80,teslafied@1.1.1,enderioconduitsrefinedstorage@5.0.40,galacticraftplanets@4.0.2.190,redstonearsenal@2.6.1,guideapi@1.12-2.1.8-63,mcmultipart@2.5.3,acintegration@1.6.6,mysticalagradditions@1.2.10,openmodularturrets@3.0.1-264,mysticallib@1.12.2-1.0.0,enderioconduits@5.0.40,industrialforegoing@1.12.2-1.12.2,tipthescales@1.0.3,unidict@1.12.2-2.9.2,redstoneflux@2.1.0,modtweaker@4.0.16,botania@r1.10-358,resourceloader@1.5.3,eleccore@1.8.434,portality@1.0-SNAPSHOT,riteclicker@1.12_1,projectred-core@4.9.1.92,abyssalcraft@1.9.4.15,lunatriuscore@1.2.0.42,teslacorelib@1.0.15,ceramics@1.12-1.3.6,projectred-exploration@4.9.1.92,projectred-transportation@4.9.1.92,FML@8.0.99.99,thermalexpansion@5.5.2,tombstone@3.3.0,ompd@3.0.0-36,rftoolsdim@5.64,enderiointegrationtic@5.0.40,additionalresources@0.1.1,forgemultipartcbe@2.6.1.81,itemphysic@1.4.0,overpoweredarmorbar@0.3.2,codechickenlib@3.2.2.353,rockcandy@1.12.2-3.00,tp@3.2.32,wailaharvestability@1.1.12,aroma1997sdimension@2.0.0.2.b87,magneticraft@2.5.2,unloader@1.2.0,clienttweaks@3.1.11,ctgui@1.0.0,simple_trophies@1.1.0,simplyjetpacks@2.2.10.63,woot@1.12.2-1.4.9,grue@1.4.0,jee@1.0.6,jei@4.14.4.264,everlastingabilities@1.4.0,attributefix@1.0.4,custommainmenu@2.0.9,modulardiversity@1.1,bibliocraft@2.4.5,mekanism@1.12.2-9.4.13.349,thermalfoundation@2.6.1,bdlib@1.14.3.12,opencomputers@1.7.3.146,expequiv@11b,enderiointegrationticlate@5.0.40,aroma1997core@2.0.0.0.b162,chameleon@1.12-4.1.3,farmingforblockheads@3.1.26,inventorytweaks@1.63+release.109.220f184,pneumaticcraft@1.12.2-0.9.1-317,equivalentintegrations@0.1.9,micdoodlecore@,crafttweaker@4.1.14,thermalsolars@1.12.2 V1.9.4,immersivepetroleum@1.1.9,forge@14.23.5.2808,ftbutilities@5.3.0.79,ironchest@1.12.2-7.0.58.841,zerocore@1.12-0.1.2.3,minecraft@1.12.2,tcomplement@${version},mousetweaks@2.9,audiodeath@0.7.0_1.9-87aeca7,immersiveengineering@0.12-88,thermaldynamics@2.5.3,tammodized@0.15.5,applecore@3.1.4,yabba@1.1.2.39,enderiopowertools@5.0.40,chickenchunks@2.4.1.73,mpbasic@1.4.7,compacter@1.3.0.3,extrautils2@1.0,quantumflux@2.0.17,mantle@1.12-1.3.3.39,waitingtime@1.0.1,bhc@1.2.1,autoreglib@1.3-24,lootbags@2.5.7,galacticraftcore@4.0.2.190,mrtjpcore@2.1.3.35,moofluids@1.12.2-1.8.12.02a,biometweakercore@1.0.39,erebus@1.0.25,appleskin@1.0.9,embers@1.12,ingameinfoxml@2.8.2.94,minecraftmultipartcbe@2.6.1.81,enderioconduitsopencomputers@5.0.40,netherendingores@1.12.2-1.2,thedragonlib@1.12.2-5.3.0,tweakersconstruct@1.12.2-1.3.0,base@3.11.0,cyclopscore@1.0.2,ts2k16@1.2.10,p455w0rdslib@2.0.36,astralsorcery@1.10.10,enderiointegrationforestry@5.0.40,modularmachinery@1.9.5,creativecoredummy@1.0.0,rftools@7.60,openmods@0.12.1,avaritiatweaks@1.12.2-1.1,extendedcrafting@1.5.2,cofhcore@4.6.1,lttweaker@1.1.14,tickprofiler@1.12-0.0.7,kleeslabs@5.4.11,plustic@7.0.0.0,reborncore@3.13.2.411,betterquesting@3.5.290,controlling@3.0.6,cookingforblockheads@6.4.69,placebo@1.5.1,nofog@1.12.2-1.12.2-1.0.3.0,gardenofglass@sqrt(-1),neid@1.5.4.3,ae2stuff@0.7.0.4,fencejumper@1.0.5,mputils@1.5.6,bookshelf@2.3.574,huntingdim@1.0.36,extraplanets@1.12.2-0.4.7,wct@3.11.88,cofhworld@1.3.0,progressivebosses@1.4.1,mekanismgenerators@9.4.11,matc@1.0.1-hotfix,mcjtylib_ng@3.1.1,bq_standard@3.4.150,biometweaker@3.2.354,nmsot@1.2.2-mc1.12.2,twilightforest@3.8.689,mob_grinding_utils@0.3.13,brokenwings@1.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,crafttweakerjei@2.0.2,enderiomachines@5.0.40,galacticrafttweaker@1.12.2-1.0.3,mtlib@3.0.5,openmodscore@0.12.1,simplesponge@3.6.1,teslacorelib_registries@1.0.15,actuallyadditions@1.12.2-r144,solarflux@4.32r,kc@1.12,lessforgivingvoid@1.0.1,mapgadgets@@VERSION@,randomthings@4.2.6,oreexcavation@1.4.133,endermanevo@1.0.16,rftoolscontrol@1.9.3,lostcities@2.0.13,manavisualizer@r1.0-1,furnaceoverhaul@1.0.5,enderioconduitsappliedenergistics@5.0.40,mekanismtools@9.4.11,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.50,soot@1.5,instantunify@1.1.2,armorplus@1.12.2-11.16.3.48,quantumstorage@4.6.6,epicsiegemod@13.163,landcraft@2.2.1.2,betteradvancements@0.0.16.71,danknull@1.4.46,agricraft@2.12.0-1.12.0-a6,ynot@0.2.3,extracells@2.6.2,tesla@1.0.63,stacksize@1.1,ae2wtlib@1.0.6,cucumber@1.1.3,overloaded@0.0.53,simplevoidworld@1.2.0.9,witherskelefix@2.6.3,wawla@2.5.269,waystones@4.0.67,mcp@9.42,clumps@3.1.2,diethopper@1.1,journeymap@1.12.2-5.5.3,appliedenergistics2@rv6-stable-6,dimensionaledibles@1.3,nuclearcraft@2.13e,endertweaker@1.0.0,nex@2.0.8,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.0.1-162,roughmobs@2.0.0,landcore@1.5.0.0,bonsaitrees@1.1.2,toastcontrol@1.8.0,ichunutil@7.1.4,enderstorage@2.4.5.135,discordsuite@2.2.4,akashictome@1.2-12,exnihilocreatio@1.12-0.3.2,bloodmagic@1.12.2-2.3.3-101,brandonscore@2.4.9,mysticalagriculture@1.7.1,openblocks@1.8,skylandsforge@1.12.2_0.2,craftingtweaks@8.1.9,tconstruct@1.12.2-2.12.0.115,avaritia@3.3.0,baubles@1.5.2,exchangers@1.12.2-2.8,creativecore@1.9.9,projectred-relocation@4.9.1.92,integrationforegoing@1.12.2-1.8.2,enderio@5.0.40,bloodmoon@1.5.3,justenoughpetroleum@0.1,quark@r1.5-145,karatgarden@0.1.4,fastbench@1.6.0,storagedrawers@1.12-5.3.5,blockcraftery@1.12.2-1.1.0,natura@1.12.2-4.3.2.66,projectred-expansion@4.9.1.92,voidcraft@0.26.10,enderiobase@5.0.40,wanionlib@1.12.2-2.2,chisel@MC1.12.2-0.2.1.35,infinitylib@1.12.2-1.12.0,foamfix@0.10.3-1.12.2,opencomputers|core@1.7.3.146,mjrlegendslib@1.12.2-1.1.8,chiselsandbits@14.30,morphtool@1.2-21,packmode@1.2.0,translocators@2.5.1.77,modelloader@1.1.5
+CLIENT
+Attempting connection with missing mods [spongeapi, sponge, spongeforge, randompatches, auction, aurionsvotelistener, betterchunkloader, boop, buycraft, carrotshop, catclearlag, cmdbuilder, cmdcontrol, commandsigns, economylite, gwm_crates, gwm_library, holograms, inventorykeeper, itemchat, laggoggles, luckperms, magibridge, mmcreboot, mmcrestrict, nucleus, nuvotifier, pixelautomessages, placeholderapi, prism, prismplus, rankupper, sampler, spark, tabmodifier, wasted, worldedit]: at CLIENT
+Netty Epoll Server IO #14/INFO 02/13/2019 18:55:50
+18:55:50Skipping config sync, No mods have registered a syncable config.
+Netty Epoll Server IO #15/INFO 02/13/2019 18:55:50
+18:55:50Client protocol version 2
+Client attempting to join with 280 mods : bqt@1.0,draconicevolution@2.3.18,projecte@1.12.2-PE1.4.0,contenttweaker@1.12.2-4.9.1,thermalinnovation@0.3.1,modnametooltip@1.10.0,endercore@1.12.2-0.5.45,neat@1.4-17,enderioendergy@5.0.40,hammercore@2.0.4.1,ctm@MC1.12.2-0.3.3.22,xnet@1.7.6,lex@1.0.8,lordcraft@1.0.0,forgelin@1.8.2,microblockcbe@2.6.1.81,xreliquary@1.12.2-1.3.4.780,chancecubes@1.12.2-3.2.3.242,darkutils@1.8.223,betterbuilderswands@0.12.1,morpheus@1.12.2-3.5.106,waila@1.8.26,ftblib@5.4.1.80,teslafied@1.1.1,enderioconduitsrefinedstorage@5.0.40,galacticraftplanets@4.0.2.190,redstonearsenal@2.6.1,guideapi@1.12-2.1.8-63,mcmultipart@2.5.3,acintegration@1.6.6,forgehax@2.9.0,mysticalagradditions@1.2.10,openmodularturrets@3.0.1-264,mysticallib@1.12.2-1.0.0,enderioconduits@5.0.40,industrialforegoing@1.12.2-1.12.2,tipthescales@1.0.3,unidict@1.12.2-2.9.2,redstoneflux@2.1.0,modtweaker@4.0.16,botania@r1.10-358,resourceloader@1.5.3,eleccore@1.8.434,portality@1.0-SNAPSHOT,riteclicker@1.12_1,projectred-core@4.9.1.92,abyssalcraft@1.9.4.15,lunatriuscore@1.2.0.42,teslacorelib@1.0.15,ceramics@1.12-1.3.6,projectred-exploration@4.9.1.92,projectred-transportation@4.9.1.92,FML@8.0.99.99,thermalexpansion@5.5.2,tombstone@3.3.0,ompd@3.0.0-36,rftoolsdim@5.64,enderiointegrationtic@5.0.40,additionalresources@0.1.1,forgemultipartcbe@2.6.1.81,itemphysic@1.4.0,overpoweredarmorbar@0.3.2,codechickenlib@3.2.2.353,rockcandy@1.12.2-3.00,tp@3.2.32,wailaharvestability@1.1.12,aroma1997sdimension@2.0.0.2.b87,magneticraft@2.5.2,unloader@1.2.0,clienttweaks@3.1.11,ctgui@1.0.0,simple_trophies@1.1.0,simplyjetpacks@2.2.10.63,woot@1.12.2-1.4.9,grue@1.4.0,jee@1.0.6,jei@4.14.4.264,everlastingabilities@1.4.0,attributefix@1.0.4,custommainmenu@2.0.9,modulardiversity@1.1,bibliocraft@2.4.5,mekanism@1.12.2-9.4.13.349,thermalfoundation@2.6.1,bdlib@1.14.3.12,opencomputers@1.7.3.146,expequiv@11b,enderiointegrationticlate@5.0.40,aroma1997core@2.0.0.0.b162,chameleon@1.12-4.1.3,farmingforblockheads@3.1.26,inventorytweaks@1.63+release.109.220f184,pneumaticcraft@1.12.2-0.9.1-317,equivalentintegrations@0.1.9,micdoodlecore@,crafttweaker@4.1.14,thermalsolars@1.12.2 V1.9.4,immersivepetroleum@1.1.9,forge@14.23.5.2808,ftbutilities@5.3.0.79,ironchest@1.12.2-7.0.58.841,zerocore@1.12-0.1.2.3,minecraft@1.12.2,tcomplement@${version},mousetweaks@2.9,audiodeath@0.7.0_1.9-87aeca7,immersiveengineering@0.12-88,thermaldynamics@2.5.3,tammodized@0.15.5,applecore@3.1.4,yabba@1.1.2.39,enderiopowertools@5.0.40,chickenchunks@2.4.1.73,mpbasic@1.4.7,compacter@1.3.0.3,extrautils2@1.0,quantumflux@2.0.17,mantle@1.12-1.3.3.39,waitingtime@1.0.1,bhc@1.2.1,autoreglib@1.3-24,lootbags@2.5.7,galacticraftcore@4.0.2.190,mrtjpcore@2.1.3.35,moofluids@1.12.2-1.8.12.02a,biometweakercore@1.0.39,erebus@1.0.25,appleskin@1.0.9,embers@1.12,ingameinfoxml@2.8.2.94,minecraftmultipartcbe@2.6.1.81,enderioconduitsopencomputers@5.0.40,netherendingores@1.12.2-1.2,thedragonlib@1.12.2-5.3.0,tweakersconstruct@1.12.2-1.3.0,base@3.11.0,cyclopscore@1.0.2,ts2k16@1.2.10,p455w0rdslib@2.0.36,astralsorcery@1.10.10,enderiointegrationforestry@5.0.40,modularmachinery@1.9.5,creativecoredummy@1.0.0,rftools@7.60,openmods@0.12.1,avaritiatweaks@1.12.2-1.1,extendedcrafting@1.5.2,cofhcore@4.6.1,lttweaker@1.1.14,tickprofiler@1.12-0.0.7,kleeslabs@5.4.11,plustic@7.0.0.0,reborncore@3.13.2.411,betterquesting@3.5.290,controlling@3.0.6,cookingforblockheads@6.4.69,placebo@1.5.1,nofog@1.12.2-1.12.2-1.0.3.0,gardenofglass@sqrt(-1),neid@1.5.4.3,ae2stuff@0.7.0.4,fencejumper@1.0.5,mputils@1.5.6,bookshelf@2.3.574,huntingdim@1.0.36,extraplanets@1.12.2-0.4.7,wct@3.11.88,cofhworld@1.3.0,progressivebosses@1.4.1,mekanismgenerators@9.4.11,matc@1.0.1-hotfix,mcjtylib_ng@3.1.1,bq_standard@3.4.150,biometweaker@3.2.354,nmsot@1.2.2-mc1.12.2,twilightforest@3.8.689,mob_grinding_utils@0.3.13,brokenwings@1.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,crafttweakerjei@2.0.2,enderiomachines@5.0.40,galacticrafttweaker@1.12.2-1.0.3,mtlib@3.0.5,openmodscore@0.12.1,simplesponge@3.6.1,teslacorelib_registries@1.0.15,actuallyadditions@1.12.2-r144,solarflux@4.32r,kc@1.12,lessforgivingvoid@1.0.1,mapgadgets@@VERSION@,randomthings@4.2.6,oreexcavation@1.4.133,endermanevo@1.0.16,rftoolscontrol@1.9.3,lostcities@2.0.13,manavisualizer@r1.0-1,furnaceoverhaul@1.0.5,enderioconduitsappliedenergistics@5.0.40,mekanismtools@9.4.11,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.50,soot@1.5,instantunify@1.1.2,armorplus@1.12.2-11.16.3.48,quantumstorage@4.6.6,epicsiegemod@13.163,landcraft@2.2.1.2,betteradvancements@0.0.16.71,danknull@1.4.46,agricraft@2.12.0-1.12.0-a6,ynot@0.2.3,extracells@2.6.2,tesla@1.0.63,stacksize@1.1,ae2wtlib@1.0.6,cucumber@1.1.3,overloaded@0.0.53,simplevoidworld@1.2.0.9,witherskelefix@2.6.3,wawla@2.5.269,waystones@4.0.67,mcp@9.42,clumps@3.1.2,diethopper@1.1,journeymap@1.12.2-5.5.3,appliedenergistics2@rv6-stable-6,dimensionaledibles@1.3,nuclearcraft@2.13e,endertweaker@1.0.0,nex@2.0.8,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.0.1-162,roughmobs@2.0.0,landcore@1.5.0.0,bonsaitrees@1.1.2,toastcontrol@1.8.0,ichunutil@7.1.4,enderstorage@2.4.5.135,discordsuite@2.2.4,akashictome@1.2-12,exnihilocreatio@1.12-0.3.2,bloodmagic@1.12.2-2.3.3-101,brandonscore@2.4.9,mysticalagriculture@1.7.1,openblocks@1.8,skylandsforge@1.12.2_0.2,craftingtweaks@8.1.9,tconstruct@1.12.2-2.12.0.115,avaritia@3.3.0,baubles@1.5.2,exchangers@1.12.2-2.8,creativecore@1.9.9,projectred-relocation@4.9.1.92,integrationforegoing@1.12.2-1.8.2,enderio@5.0.40,bloodmoon@1.5.3,justenoughpetroleum@0.1,quark@r1.5-145,karatgarden@0.1.4,fastbench@1.6.0,storagedrawers@1.12-5.3.5,blockcraftery@1.12.2-1.1.0,natura@1.12.2-4.3.2.66,projectred-expansion@4.9.1.92,voidcraft@0.26.10,enderiobase@5.0.40,wanionlib@1.12.2-2.2,chisel@MC1.12.2-0.2.1.35,infinitylib@1.12.2-1.12.0,foamfix@0.10.3-1.12.2,opencomputers|core@1.7.3.146,mjrlegendslib@1.12.2-1.1.8,chiselsandbits@14.30,morphtool@1.2-21,packmode@1.2.0,translocators@2.5.1.77,modelloader@1.1.5
+CLIENT
+18:55:51Attempting connection with missing mods [spongeapi, sponge, spongeforge, randompatches, auction, aurionsvotelistener, betterchunkloader, boop, buycraft, carrotshop, catclearlag, cmdbuilder, cmdcontrol, commandsigns, economylite, gwm_crates, gwm_library, holograms, inventorykeeper, itemchat, laggoggles, luckperms, magibridge, mmcreboot, mmcrestrict, nucleus, nuvotifier, pixelautomessages, placeholderapi, prism, prismplus, rankupper, sampler, spark, tabmodifier, wasted, worldedit]: at CLIENT
+Netty Epoll Server IO #13/INFO 02/13/2019 18:55:51
+18:55:51Skipping config sync, No mods have registered a syncable config.
+Netty Epoll Server IO #15/INFO 02/13/2019 18:55:51
+18:55:51Skipping config sync, No mods have registered a syncable config.
+Server thread/WARN 02/13/2019 18:55:51
+18:55:51Can't keep up! Did the system time change, or is the server overloaded? Running 204352ms behind, skipping 4087 tick(s)
+Server thread/INFO 02/13/2019 18:55:51
+18:55:51Loading world [Abyssal_Wasteland]: (The Abyssal Wasteland)
+Server thread/ERROR 02/13/2019 18:55:51
+18:55:51Parsing error loading built-in advancement minecraft:recipes/tools/flint_and_steel
+Console 02/13/2019 18:55:51
+18:55:51com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:flint_and_steel'
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+18:55:52 at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+at org.spongepowered.common.world.WorldManager.createWorldFromProperties(WorldManager.java:803) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:630) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:571) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:809) [DimensionManager.class:?]
+at net.minecraft.server.MinecraftServer.func_71218_a(MinecraftServer.java:5641) [MinecraftServer.class:?]
+at com.shinoow.abyssalcraft.common.blocks.BlockAbyssPortal.func_180634_a(BlockAbyssPortal.java:230) [BlockAbyssPortal.class:?]
+at net.minecraft.entity.Entity.redirect$onEntityCollideWithBlockState$zed000(Entity.java:6026) [vg.class:?]
+at net.minecraft.entity.Entity.func_145775_I(Entity.java:1044) [vg.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70091_d(SourceFile:63) [adp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_191986_a(EntityLivingBase.java:1958) [vp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2393) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70071_h_(SourceFile:69) [adp.class:?]
+at org.spongepowered.common.event.tracking.TrackingUtil.tickEntity(TrackingUtil.java:157) [TrackingUtil.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraft.world.WorldServer.redirect$onCallEntityUpdate$zmc000(WorldServer.java:2978) [oo.class:?]
+at net.minecraft.world.World.func_72866_a(World.java:4157) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+at net.minecraft.world.World.func_72870_g(World.java:1955) [amu.class:?]
+at net.minecraft.world.World.func_72939_s(World.java:6599) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:2290) [oo.class:?]
+at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+18:55:53 at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Server thread/ERROR 02/13/2019 18:55:53
+18:55:53Parsing error loading built-in advancement minecraft:recipes/misc/fire_charge
+Console 02/13/2019 18:55:53
+18:55:53com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:fire_charge'
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+at org.spongepowered.common.world.WorldManager.createWorldFromProperties(WorldManager.java:803) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:630) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:571) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:809) [DimensionManager.class:?]
+at net.minecraft.server.MinecraftServer.func_71218_a(MinecraftServer.java:5641) [MinecraftServer.class:?]
+at com.shinoow.abyssalcraft.common.blocks.BlockAbyssPortal.func_180634_a(BlockAbyssPortal.java:230) [BlockAbyssPortal.class:?]
+at net.minecraft.entity.Entity.redirect$onEntityCollideWithBlockState$zed000(Entity.java:6026) [vg.class:?]
+at net.minecraft.entity.Entity.func_145775_I(Entity.java:1044) [vg.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70091_d(SourceFile:63) [adp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_191986_a(EntityLivingBase.java:1958) [vp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2393) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+18:55:54 at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70071_h_(SourceFile:69) [adp.class:?]
+at org.spongepowered.common.event.tracking.TrackingUtil.tickEntity(TrackingUtil.java:157) [TrackingUtil.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraft.world.WorldServer.redirect$onCallEntityUpdate$zmc000(WorldServer.java:2978) [oo.class:?]
+at net.minecraft.world.World.func_72866_a(World.java:4157) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+at net.minecraft.world.World.func_72870_g(World.java:1955) [amu.class:?]
+at net.minecraft.world.World.func_72939_s(World.java:6599) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:2290) [oo.class:?]
+at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Server thread/ERROR 02/13/2019 18:55:54
+18:55:54Parsing error loading built-in advancement minecraft:recipes/misc/diamond
+Console 02/13/2019 18:55:54
+18:55:54com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:diamond'
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+18:55:55 at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+at org.spongepowered.common.world.WorldManager.createWorldFromProperties(WorldManager.java:803) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:630) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at org.spongepowered.common.world.WorldManager.loadWorld(WorldManager.java:571) [WorldManager.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:809) [DimensionManager.class:?]
+at net.minecraft.server.MinecraftServer.func_71218_a(MinecraftServer.java:5641) [MinecraftServer.class:?]
+at com.shinoow.abyssalcraft.common.blocks.BlockAbyssPortal.func_180634_a(BlockAbyssPortal.java:230) [BlockAbyssPortal.class:?]
+at net.minecraft.entity.Entity.redirect$onEntityCollideWithBlockState$zed000(Entity.java:6026) [vg.class:?]
+at net.minecraft.entity.Entity.func_145775_I(Entity.java:1044) [vg.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70091_d(SourceFile:63) [adp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_191986_a(EntityLivingBase.java:1958) [vp.class:?]
+at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2393) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+at net.minecraft.entity.monster.EntityVex.func_70071_h_(SourceFile:69) [adp.class:?]
+at org.spongepowered.common.event.tracking.TrackingUtil.tickEntity(TrackingUtil.java:157) [TrackingUtil.class:1.12.2-2768-7.1.6-RC3561]
+at net.minecraft.world.WorldServer.redirect$onCallEntityUpdate$zmc000(WorldServer.java:2978) [oo.class:?]
+at net.minecraft.world.World.func_72866_a(World.java:4157) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+at net.minecraft.world.World.func_72870_g(World.java:1955) [amu.class:?]
+at net.minecraft.world.World.func_72939_s(World.java:6599) [amu.class:?]
+at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:2290) [oo.class:?]
+at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Server thread/ERROR 02/13/2019 18:55:55
+18:55:55Parsing error loading built-in advancement minecraft:recipes/misc/bucket
+Console 02/13/2019 18:55:56
+18:55:56com.google.gson.JsonSyntaxExceptio
